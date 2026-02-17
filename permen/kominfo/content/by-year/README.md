@@ -6,10 +6,17 @@
 
 ## 📋 Year-by-Year Navigation
 
+### 2025 - Ministry Transformation & Integration Focus
+**[📂 2025 Regulations](2025.md)** - 6 major regulations (Komdigi era begins)
+- **Critical:** Digital transformation acceleration, ministry restructuring
+- **Focus:** Organizational change, system integration, talent development
+- **Note:** Ministry name changed from "Kominfo" to "Komdigi"
+
 ### 2024 - Digital Transformation & PDP Year
-**[📂 2024 Regulations](2024.md)** - 15 major regulations
+**[📂 2024 Regulations](2024.md)** - 12 actual regulations (gaps in numbering)
 - **Critical:** PDP Implementation, PSE Platform reform, Digital Identity launch
 - **Focus:** Data protection compliance, platform regulation, cybersecurity
+- **Note:** Missing No. 1, 4, 10 (normal administrative practice)
 
 ### 2023 - Platform Economy Regulation 
 **[📂 2023 Regulations](2023.md)** - 12 major regulations  

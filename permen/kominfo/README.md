@@ -11,9 +11,11 @@ Repository tracking untuk Peraturan Menteri Komunikasi dan Digital (Perkomdigi) 
 
 ### 📚 **NEW: Full Content Library**
 - **[📂 Complete Content by Year](content/by-year/README.md)** - Full regulation text in AI-friendly markdown
-- **[📅 2024 Regulations](content/by-year/2024.md)** - 15 regulations (PDP, PSE, Digital ID)
+- **[📅 2025 Regulations](content/by-year/2025.md)** - 6 regulations (Ministry transformation to "Komdigi")
+- **[📅 2024 Regulations](content/by-year/2024.md)** - 12 regulations (PDP, PSE, Digital ID)
 - **[📅 2023 Regulations](content/by-year/2023.md)** - 12 regulations (E-commerce, IoT security)
 - **[📅 2022-2020 Archives](content/by-year/)** - Historical regulations with full text
+- **[❓ Regulation Numbering System](REGULATION_NUMBERING.md)** - Why numbers skip (e.g., no No. 1/2024)
 
 ### 📂 Kategorisasi Peraturan
 - **[Infrastruktur & Telekomunikasi](infrastruktur-telekomunikasi.md)** - Peraturan infrastruktur dan layanan telekomunikasi
@@ -40,17 +42,23 @@ Repository tracking untuk Peraturan Menteri Komunikasi dan Digital (Perkomdigi) 
 
 ## 📊 Statistics (Februari 2026)
 
-| Kategori | Aktif | Dicabut | Total |
-|----------|-------|---------|-------|
-| Infrastruktur & Telkom | 35 | 12 | 47 |
-| Internet & Platform | 28 | 8 | 36 |
-| Keamanan Siber | 15 | 3 | 18 |
-| Penyiaran & Media | 22 | 15 | 37 |
-| Pos & Logistik | 12 | 5 | 17 |
-| Transformasi Digital | 18 | 2 | 20 |
-| Organisasi | 8 | 20 | 28 |
-| Perizinan & Standard | 14 | 6 | 20 |
-| **TOTAL** | **152** | **71** | **223** |
+| Kategori | Aktif | Dicabut | Total | 2025 New |
+|----------|-------|---------|-------|----------|
+| Infrastruktur & Telkom | 35 | 12 | 47 | 0 |
+| Internet & Platform | 28 | 8 | 36 | 0 |
+| Keamanan Siber | 15 | 3 | 18 | 0 |
+| Penyiaran & Media | 22 | 15 | 37 | 0 |
+| Pos & Logistik | 12 | 5 | 17 | 0 |
+| Transformasi Digital | 20 | 2 | 22 | +2 |
+| Organisasi | 10 | 20 | 30 | +2 |
+| Perizinan & Standard | 16 | 6 | 22 | +2 |
+| **TOTAL** | **158** | **71** | **229** | **+6** |
+
+### 📈 2025 Ministry Transformation Impact
+- **+6 new regulations** focused on organizational transformation
+- **Ministry name change** from "Kominfo" to "Komdigi" 
+- **Digital acceleration** became national priority
+- **System integration** mandate across government
 
 ## 🏛️ Legal Framework
 
