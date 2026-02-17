@@ -40,6 +40,12 @@ Permen tidak termasuk dalam 7 hierarki utama di atas, namun tetap diakui keberad
 │   ├── 06-perda-provinsi.md    # Perda Provinsi
 │   ├── 07-perda-kabupaten.md   # Perda Kabupaten/Kota
 │   └── 08-permen.md            # Peraturan Menteri
+├── 📂 permen/                  # **Peraturan Menteri Detail**
+│   └── 📂 kominfo/             # Kementerian Komunikasi dan Digital
+│       ├── README.md           # Overview & struktur
+│       ├── active-regulations.md # Daftar lengkap peraturan aktif
+│       ├── change-history.md   # Riwayat perubahan (Git-tracked)
+│       └── critical-regulations.md # Peraturan kritis prioritas tinggi
 ├── 📂 analysis/                # Framework analisis
 │   ├── compliance-framework.md  # Framework kepatuhan
 │   └── ai-analysis-guide.md    # Panduan analisis AI
@@ -49,6 +55,25 @@ Permen tidak termasuk dalam 7 hierarki utama di atas, namun tetap diakui keberad
     └── hierarchy.json          # Data JSON untuk AI
 ```
 
+## 🚀 **NEW: Detailed Permen Tracking**
+
+### Kementerian Komunikasi dan Digital
+📂 **[Peraturan Menteri Kominfo/Komdigi](permen/kominfo/)** - Complete tracking system with:
+
+- **[📋 Active Regulations](permen/kominfo/active-regulations.md)** - 152+ active regulations across 8 categories
+- **[🔄 Change History](permen/kominfo/change-history.md)** - Git-tracked changes with cross-references  
+- **[🚨 Critical Regulations](permen/kominfo/critical-regulations.md)** - High-impact regulations requiring close monitoring
+- **[📊 Real-time Compliance](permen/kominfo/README.md#statistics)** - Status tracking and analytics
+
+**Key Features:**
+✅ **Hyperlinked cross-references** between related regulations  
+✅ **Git history tracking** for all changes with reasoning  
+✅ **Impact analysis** for business and compliance implications  
+✅ **AI-ready metadata** for automated monitoring  
+✅ **Critical alert system** for high-priority regulatory changes  
+
+**Coverage includes:** PSE Platform regulation, PDP implementation, Digital transformation, Cybersecurity, Broadcasting, Telecommunications, and more.
+
 ## 🤖 AI-Agent Friendly Features
 
 - **Structured Markdown**: Setiap dokumen dalam format markdown dengan metadata
@@ -56,6 +81,7 @@ Permen tidak termasuk dalam 7 hierarki utama di atas, namun tetap diakui keberad
 - **Machine Readable**: JSON data untuk pemrosesan otomatis
 - **Compliance Tracking**: Framework untuk tracking kepatuhan
 - **Analysis Framework**: Panduan untuk analisis sistematis
+- **Detailed Permen Tracking**: Real-time ministerial regulation monitoring
 
 ## 🎯 Use Cases
 
