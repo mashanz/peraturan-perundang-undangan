@@ -9,6 +9,12 @@ Repository tracking untuk Peraturan Menteri Komunikasi dan Digital (Perkomdigi) 
 
 ## 📋 Structure
 
+### 📚 **NEW: Full Content Library**
+- **[📂 Complete Content by Year](content/by-year/README.md)** - Full regulation text in AI-friendly markdown
+- **[📅 2024 Regulations](content/by-year/2024.md)** - 15 regulations (PDP, PSE, Digital ID)
+- **[📅 2023 Regulations](content/by-year/2023.md)** - 12 regulations (E-commerce, IoT security)
+- **[📅 2022-2020 Archives](content/by-year/)** - Historical regulations with full text
+
 ### 📂 Kategorisasi Peraturan
 - **[Infrastruktur & Telekomunikasi](infrastruktur-telekomunikasi.md)** - Peraturan infrastruktur dan layanan telekomunikasi
 - **[Internet & Platform Digital](internet-platform.md)** - Regulasi internet, platform digital, dan e-commerce
@@ -22,7 +28,7 @@ Repository tracking untuk Peraturan Menteri Komunikasi dan Digital (Perkomdigi) 
 ### 📈 Status Tracking
 - **[Active Regulations](active-regulations.md)** - Daftar lengkap peraturan aktif
 - **[Change History](change-history.md)** - Riwayat perubahan dan pencabutan
-- **[Upcoming Changes](upcoming-changes.md)** - Perubahan yang akan datang
+- **[Critical Regulations](critical-regulations.md)** - Peraturan prioritas tinggi dengan monitoring
 
 ## 🔍 Quick Reference
 
