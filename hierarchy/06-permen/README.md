@@ -12,6 +12,7 @@ Ministerial Regulations are issued by Ministers and heads of non-ministerial ins
 ## Ministerial Structure
 
 ### **[Ministry of Communication and Digital (Kominfo/Komdigi)](kominfo/)**
+- **Official Domain:** https://jdih.komdigi.go.id/
 - **Status:** ✅ Complete regulation tracking system
 - **Coverage:** Digital transformation, telecommunications, broadcasting, postal services
 - **Active Regulations:** 158 total (as of February 2026)

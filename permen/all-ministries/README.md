@@ -15,7 +15,7 @@
 - **[kemenlu](kemenlu/)** - Ministry of Foreign Affairs
 - **[kemenhan](kemenhan/)** - Ministry of Defense
 - **[kemenkumham](kemenkumham/)** - Ministry of Law and Human Rights
-- **[kemenkominfo](kemenkominfo/)** - Ministry of Communication and Informatics
+- **[kemenkominfo](kemenkominfo/)** - Ministry of Communication and Digital (Komdigi) - https://jdih.komdigi.go.id/
 
 ### **Economic Ministries:**
 - **[kemenperin](kemenperin/)** - Ministry of Industry

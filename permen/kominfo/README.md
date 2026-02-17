@@ -9,7 +9,11 @@ Repository tracking untuk Peraturan Menteri Komunikasi dan Digital (Perkomdigi) 
 
 ## 📋 Structure
 
-### 📚 **NEW: Full Content Library**
+### 🌐 **Official Legal Database**
+- **Official Domain:** https://jdih.komdigi.go.id/ (Ministry transformation: Kominfo → Komdigi)
+- **Legal Information System:** JDIH Kementerian Komunikasi dan Digital
+
+## 📚 **NEW: Full Content Library**
 - **[📂 Complete Content by Year](content/by-year/README.md)** - Full regulation text in AI-friendly markdown
 - **[📅 2025 Regulations](content/by-year/2025.md)** - 6 regulations (Ministry transformation to "Komdigi")
 - **[📅 2024 Regulations](content/by-year/2024.md)** - 12 regulations (PDP, PSE, Digital ID)
