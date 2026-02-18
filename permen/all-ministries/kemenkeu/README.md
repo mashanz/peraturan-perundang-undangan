@@ -10,7 +10,7 @@
 
 ## ✅ **CONVERTED REGULATIONS**
 
-### **📅 2026 Series - Complete**
+### **📅 2026 Series - Complete (5 regulations)**
 
 | No | PMK Number | Title | Date | Theme |
 |----|-----------|-------|------|--------|
@@ -20,24 +20,38 @@
 | 4 | **[PMK-2/2026](pmk-02-2026.md)** | 2nd Amendment - Regional Performance Indicators & DAU | Jan 26, 2026 | PERUBAHAN \| INDIKATOR |
 | 5 | **[PMK-1/2026](pmk-01-2026.md)** | 4th Amendment - Tax Administration Core System | Jan 22, 2026 | KEUANGAN NEGARA \| BIDANG PAJAK |
 
-### **📊 2026 Regulations by Policy Area**
+### **📅 2025 Series - Extended (7 regulations)**
+
+| No | PMK Number | Title | Date | Theme |
+|----|-----------|-------|------|--------|
+| 6 | **[PMK-120/2025](pmk-120-2025.md)** | Revenue Sharing Settlement FY 2025 | Dec 31, 2025 | BIDANG ANGGARAN \| HUKUM KEUANGAN NEGARA |
+| 7 | **[PMK-119/2025](pmk-119-2025.md)** | Special Allocation Fund (Non-Physical) Management | Dec 31, 2025 | HUKUM KEUANGAN NEGARA \| BIDANG PERIMBANGAN |
+| 8 | **[PMK-118/2025](pmk-118-2025.md)** | Amendment - TNI Old Age Savings Program Management | Dec 31, 2025 | PERUBAHAN \| TENTARA NASIONAL INDONESIA |
+| 9 | **[PMK-117/2025](pmk-117-2025.md)** | Amendment - Ministry of Finance Organization Structure | Dec 31, 2025 | ORGANISASI DAN TATAKERJA \| PERUBAHAN |
+| 10 | **[PMK-116/2025](pmk-116-2025.md)** | Amendment - Budget Implementation for Unfinished Work | Dec 30, 2025 | REKENING \| PERUBAHAN |
+| 11 | **[PMK-115/2025](pmk-115-2025.md)** | Input Cost Standards for Ministry/Agency Budget FY 2026 | Dec 30, 2025 | STANDAR BIAYA \| PENGANGGARAN K/L |
+| 12 | **[PMK-114/2025](pmk-114-2025.md)** | Public Service Agency Service Fees in Ministry of Finance | Dec 29, 2025 | LAYANAN PUBLIK \| TARIF BLU |
+
+### **📊 Regulations by Policy Area (12 total)**
 
 | Policy Area | Count | Key Focus |
 |-------------|-------|-----------|
-| **Digital Tax System** | 1 | AI/ML integration, multi-channel access |
-| **Regional Finance** | 2 | Village funds, regional performance metrics |
-| **Budget Standards** | 1 | Output-based costing framework |
-| **Tax Incentives** | 1 | Eid travel subsidy program |
+| **Budget Standards & Management** | 4 | Input/output costing, unfinished work, budget implementation |
+| **Regional Finance & Transfers** | 4 | Village funds, performance metrics, revenue sharing, non-physical development |
+| **Digital Transformation** | 2 | AI/ML integration, organizational modernization |
+| **Public Service Delivery** | 1 | BLU service fees, training and certification |
+| **Tax Systems** | 1 | Core system modernization + incentive programs |
+| **Defense & Security** | 1 | Military pension fund optimization |
 
 ---
 
 ## 🎯 **CONVERSION PROGRESS METRICS**
 
 ### **Current Status**
-- **Converted:** 8 regulations
-- **Remaining:** 4,623+ regulations  
-- **Completion Rate:** 0.17%
-- **Average per Day:** 8 regulations (current session)
+- **Converted:** 12 regulations
+- **Remaining:** 4,619+ regulations  
+- **Completion Rate:** 0.26%
+- **Average per Session:** 12 regulations (systematic approach)
 
 ### **Priority Areas for Next Conversion**
 1. **2025 Regulations** - Recent high-impact policies
