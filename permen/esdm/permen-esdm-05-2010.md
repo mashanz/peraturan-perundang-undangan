@@ -1,196 +1,309 @@
-# PERATURAN MENTERI ENERGI DAN SUMBER DAYA MINERAL NOMOR 05 TAHUN 2010
-
 ## TENTANG
-**PENDELEGASIAN WEWENANG PEMBERIAN IZIN USAHA DI BIDANG ENERGI DAN SUMBER DAYA MINERAL DALAM RANGKA PELAKSANAAN PELAYANAN TERPADU SATU PINTU DI BIDANG PENANAMAN MODAL KEPADA KEPALA BADAN KOORDINASI PENANAMAN MODAL**
+**MENTER! ENERG! DAN SUMBER DAYA MINERAL**
 
 **DENGAN RAHMAT TUHAN YANG MAHA ESA**
 
 **MENTERI ENERGI DAN SUMBER DAYA MINERAL,**
 
-MENTERI ENERGI DAN SUMBER DAYA MINERAL
-REPUBLIK INDONESIA
+**MENTERI ENERGI DAN SUMBER DAYA MINERAL,**
+### Menimbang : bahwa dalam rangka pelaksanaan ketentuan Pasal7 ayat (2) dan ayat
 
-PERATURAN MENTERI ENERGI DAN SUMBER DAYA MINERAL
-NOMOR : 05 TAHUN 2010
+(3) Peraturan Presiden Nomor 27 Tahun 2009 tentang Pelayanan
 
-TENTANG
+Terpadu Satu Pintu di Bidang Penanaman Modal, perlu menetapkan
 
-PENDELEGASIAN WEWENANG PEMBERIAN IZIN USAHA DI BIDANG ENERGI DAN
-SUMBER DAYA MINERAL DALAM RANGKA PELAKSANAAN PELAYANAN
-TERPADU SATU PINTU DI BIDANG PENANAMAN MODAL KEPADA
-KEPALA BADAN KOORDINASI PENANAMAN MODAL
+Peraturan Menteri Energi dan Sumber Daya Mineral tentang
 
-DENGAN RAHMAT TUHAN YANG MAHA ESA
+Pendelegasian Wewenang Pemberian lzin Usaha di Bidang Energi
 
-MENTERI ENERGI DAN SUMBER DAYA MINERAL,
+dan Sumber Daya Mineral Dalam Rangka Pelaksanaan Pelayanan
 
-Menimbang : a. bahwa dalam rangka percepatan pelayanan perizinan di bidang
-penanaman modal telah dibentuk Badan Koordinasi Penanaman
-Modal yang melaksanakan penyelenggaraan pelayanan terpadu satu
-pintu di bidang penanaman modal;
+Terpadu Satu Pintu di Bidang Penanaman Modal Kepada Kepala
 
-b. bahwa untuk mewujudkan pelayanan terpadu satu pintu di bidang
-penanaman modal khususnya di bidang energi dan sumber daya
-mineral, perlu dilaksanakan pendelegasian sebagian wewenang
-pemberian izin kepada Kepala Badan Koordinasi Penanaman Modal;
+Badan Koordinasi Penanaman Modal;
 
-c. bahwa untuk memberikan kepastian hukum dalam pendelegasian
-wewenang pemberian izin usaha di bidang energi dan sumber daya
-mineral dalam rangka pelaksanaan pelayanan terpadu satu pintu di
-bidang penanaman modal, perlu ditetapkan Peraturan Menteri
-Energi dan Sumber Daya Mineral;
+### Mengingat : 1. Undang-Undang Nomor 22 Tahun 2001 tentang Minyak dan Gas
 
-Mengingat : 1. Undang-Undang Nomor 8 Tahun 1971 tentang Pertamina (Lembaran
-Negara Republik Indonesia Tahun 1971 Nomor 76, Tambahan
-Lembaran Negara Republik Indonesia Nomor 2971);
+Bumi (Lembaran Negara Republik Indonesia Tahun 2001 Nornor
 
-2. Undang-Undang Nomor 11 Tahun 1967 tentang Ketentuan-ketentuan
-Pokok Pertambangan (Lembaran Negara Republik Indonesia Tahun
-1967 Nomor 22, Tambahan Lembaran Negara Republik Indonesia
-Nomor 2831);
+136, Tambahan Lembaran Negara Republik Indonesia Nomor
 
-3. Undang-Undang Nomor 15 Tahun 1985 tentang Ketenagalistrikan
-(Lembaran Negara Republik Indonesia Tahun 1985 Nomor 74,
-Tambahan Lembaran Negara Republik Indonesia Nomor 3317);
+4152);
 
-4. Undang-Undang Nomor 22 Tahun 2001 tentang Minyak dan Gas
-Bumi (Lembaran Negara Republik Indonesia Tahun 2001 Nomor 136,
-Tambahan Lembaran Negara Republik Indonesia Nomor 4152);
+2. Undang-Undang Nomor 27 Tahun 2003 tentang Panas Bumi
 
-5. Undang-Undang Nomor 30 Tahun 2007 tentang Energi (Lembaran
-Negara Republik Indonesia Tahun 2007 Nomor 133, Tambahan
-Lembaran Negara Republik Indonesia Nomor 4746);
-
-6. Undang-Undang Nomor 27 Tahun 2003 tentang Panas Bumi
 (Lembaran Negara Republik Indonesia Tahun 2003 Nomor 115,
+
 Tambahan Lembaran Negara Republik Indonesia Nomor 4327);
 
-7. Undang-Undang Nomor 25 Tahun 2007 tentang Penanaman Modal
+3. Undang-Undang Nomor 32 Tahun 2004 tentang Pemerintahan
+
+Daerah (Lembaran Negara Republik Indonesia Tahun 2004 Nomor
+
+125, Tambahan Lembaran Negara Republik Indonesia Nomor
+
+4437) sebagaimana telah dua kali diubah terakhir dengan Undang-
+
+Undang Nomor 12 Tahun 2008 (Lembaran Negara Republik
+
+Indonesia Tahun 2008 Nomor 59, Tambahan Lembaran Negara
+
+Republik Indonesia Nomor 4844);
+
+4. Undang-Undang Nomor 25 Tahun 2007 tentang Penanaman Modal
+
 (Lembaran Negara Republik Indonesia Tahun 2007 Nomor 67,
+
 Tambahan Lembaran Negara Republik Indonesia Nomor 4724);
 
-8. Undang-Undang Nomor 4 Tahun 2009 tentang Pertambangan Mineral
-dan Batubara (Lembaran Negara Republik Indonesia Tahun 2009
-Nomor 4, Tambahan Lembaran Negara Republik Indonesia Nomor
-4959);
+5 . Undang-Undang Nomor 30 Tahun 2007 tentang Energi (Lembaran
 
-9. Peraturan Pemerintah Nomor 23 Tahun 1994 tentang Pengalihan
-Bentuk Perusahaan Umum (PERUM) Pertamina Menjadi Perusahaan
-Perseroan (PERSERO) (Lembaran Negara Republik Indonesia Tahun
-1994 Nomor 38);
+Negara Republik Indonesia Tahun 2007 Nomor 96, Tambahan
 
-10. Peraturan Pemerintah Nomor 35 Tahun 1991 tentang Sungai
-(Lembaran Negara Republik Indonesia Tahun 1991 Nomor 44,
-Tambahan Lembaran Negara Republik Indonesia Nomor 3445);
+Lembaran Negara Republik Indonesia Nomor 4746);
 
-MEMUTUSKAN:
+Undang-Undang Nomor 4 Tahun 2009 tentang Pertambangan
 
-Menetapkan : PERATURAN MENTERI ENERGI DAN SUMBER DAYA MINERAL
-TENTANG PENDELEGASIAN WEWENANG PEMBERIAN IZIN USAHA
-DI BIDANG ENERGI DAN SUMBER DAYA MINERAL DALAM RANGKA
-PELAKSANAAN PELAYANAN TERPADU SATU PINTU DI BIDANG
-PENANAMAN MODAL KEPADA KEPALA BADAN KOORDINASI
-PENANAMAN MODAL.
+Mineral dan Batubara (Lembaran Negara Republik Indonesia
 
-BAB I
-KETENTUAN UMUM
+Tahun 2009 Nomor 4, Tambahan Lembaran Negara Republik
 
-Pasal 1
+Indonesia Nomor 4959);
 
-Dalam Peraturan Menteri ini yang dimaksud dengan:
+Undang-Undang Nomor 30 Tahun 2009 tentang Ketenagalistrikan
 
-1. Menteri adalah Menteri Energi dan Sumber Daya Mineral.
+(Lembaran Negara Republik Indonesia Tahun 2009 Nomor 133,
 
-2. Badan Koordinasi Penanaman Modal yang selanjutnya disingkat BKPM
-adalah lembaga pemerintah non departemen yang bertugas
-mengkoordinasikan penanaman modal.
+Tambahan Lembaran Negara Republik Indonesia Nomor 5052);
 
-3. Kepala BKPM adalah Kepala Badan Koordinasi Penanaman Modal.
+Peraturan Pemerintah Nomor 36 Tahun 2004 tentang Kegiatan
 
-4. Pelayanan Terpadu Satu Pintu yang selanjutnya disingkat PTSP adalah
-kegiatan penyelenggaraan suatu perizinan dan non-perizinan yang
-mendapat pendelegasian atau pelimpahan wewenang dari lembaga atau
-instansi yang memiliki kewenangan perizinan dan non-perizinan yang
-proses pengelolaannya sejak tahap permohonan sampai tahap
-terbitnya dokumen dilakukan dalam satu tempat.
+Usaha Hilir Minyak dan Gas Bumi (Lembaran Negara Republik
 
-5. Penanaman Modal adalah segala bentuk kegiatan menanam modal, baik
-oleh penanam modal dalam negeri maupun penanam modal asing untuk
-melakukan usaha di wilayah negara Republik Indonesia.
+Indonesia Tahun 2004 Nomor 124, Tambahan Lembaran Negara
 
-6. Izin Usaha adalah izin yang diberikan kepada perusahaan untuk
-melaksanakan usaha di bidang energi dan sumber daya mineral.
+Republik Indonesia Nomor 4436) sebagaimana telah diubah
 
-BAB II
-RUANG LINGKUP PENDELEGASIAN WEWENANG
+dengan Peraturan Pemerintah Nomor 30 Tahun 2009 (Lembaran
 
-Pasal 2
+Negara Republik Indonesia Tahun 2009 Nomor 59, Tambahan
 
-(1) Menteri mendelegasikan wewenang pemberian izin usaha di bidang energi
-dan sumber daya mineral dalam rangka pelaksanaan PTSP di bidang
-penanaman modal kepada Kepala BKPM.
+Lembaran Negara Repubiik Indonesia Nomor 4996);
 
-(2) Pendelegasian wewenang sebagaimana dimaksud pada ayat (1) meliputi:
+Peraturan Pemerintah Namor 38 Tahun 2007 tentang Pembagian
 
-a. Izin Usaha Pertambangan Umum;
-b. Izin Usaha Pertambangan Khusus;
-c. Izin Usaha Jasa Pertambangan;
-d. Izin Panas Bumi;
-e. Izin Usaha Ketenagalistrikan;
-f. Izin Usaha Niaga Bahan Bakar Minyak dan Gas Bumi;
-g. Izin Usaha Pengangkutan Gas Bumi melalui pipa;
-h. Izin Usaha Penyimpanan/Niaga Gas Bumi;
-i. Izin Usaha Pengolahan dan Pemurnian Migas.
+Urusan Pemerintahan Antara Pemerintah, Pemerintah Daerah
 
-(3) Pendelegasian wewenang sebagaimana dimaksud pada ayat (1) tidak
-termasuk izin usaha pertambangan di wilayah perairan dan lintas
-provinsi.
+Provinsi dan Pemerintah Daerah KabupatenIKota (Lembaran
 
-BAB III
-TATA CARA PELAKSANAAN PENDELEGASIAN WEWENANG
+Negara Republik Indonesia Tahun 2007 Nomor 82, Tambahan
 
-Pasal 3
+Lembaran Negara Republik Indonesia Nomor 4737);
 
-(1) Pendelegasian wewenang pemberian izin usaha di bidang energi dan
-sumber daya mineral sebagaimana dimaksud dalam Pasal 2 dilakukan
-dengan ketentuan BKPM wajib melaksanakan ketentuan peraturan
-perundang-undangan di bidang energi dan sumber daya mineral.
+Peraturan Presiden Nomor 90 Tahun 2007 tanggal 3 September
 
-(2) Dalam pelaksanaan pendelegasian wewenang sebagaimana dimaksud pada
-ayat (1), Kepala BKPM dapat meminta pertimbangan teknis kepada
-Menteri atau pejabat yang ditunjuk.
+2007 tentang Badan Koordinasi Penanaman Modal;
 
-(3) Kepala BKPM wajib menyampaikan laporan pelaksanaan pendelegasian
-wewenang kepada Menteri secara berkala setiap 3 (tiga) bulan.
+Peraturan Presiden Nomor 27 Tahun 2009 tanggal 23 Juni 2009
 
-BAB IV
-KETENTUAN PENUTUP
+tentang Pelayanan Terpadu Satu Pintu di Bidang Penanaman
 
-Pasal 4
+Modal;
 
-Peraturan Menteri ini mulai berlaku pada tanggal diundangkan.
+Keputusan Presiden Nomor 84/P Tahun 2009 tanggal 21 Oktober
 
-Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan
-Menteri ini dengan penempatannya dalam Berita Negara Republik Indonesia.
+2009;
 
-Ditetapkan di Jakarta
-pada tanggal 21 April 2010
+Peraturan Menteri Energi dan Sumber Daya Mineral Nomor 0030
 
-MENTERI ENERGI DAN SUMBER DAYA MINERAL,
+Tahun 2005 tanggal 20 Juli 2005 tentang Organisasi dan Tata
 
+Kerja Departemen Energi dan Sumber Daya Mineral;
+
+### MEMUTUSKAN :
+
+**Menetapkan : PERATURAN MENTERI ENERGI DAN SUMBER DAYA MINERAL**
+
+TENTANG PENDELEGASIAN WEWENANG PEMBERIAN lZlN
+
+USAHA Dl BIDANG ENERGI DAN SUMBER DAYA MINERAL DALAM
+
+RANGKA PELAKSANAAN PELAYANAN TERPADU SATU PlNTU Dl
+
+BIDANG PENANAMAN MODAL KEPADA KEPALA BADAN
+
+KOORDlNASl PENANAMAN MODAL.
+
+### Pasal 1
+
+Mendelegasikan wewenang pemberian izin usaha di bidang energi dan
+
+sumber daya mineral dalam rangka pelayanan terpadu satu pintu di
+
+bidang penanaman modal kepada Kepala Badan Koordinasi
+
+Penanaman Modal dengan hak substitusi.
+
+(1) Kewenangan yang didelegasikan sebagaimana dimaksud dalam
+
+### Pasal 1 terdiri atas :
+
+a. lzin Usaha di bidang energi dan sumber daya mineral yang
+
+didalamnya terdapat modal asing.
+
+b. lzin Usaha di bidang energi dan sumber daya mineral yang
+
+masih menjadi kewenangan Pemerintah.
+
+(2) lzin usaha di bidang energi dan sumber daya mineral
+
+sebagaimana dimaksud dalam Pasal 1 adalah sebagaimana
+
+tercantum dalam Lampiran yang merupakan bagian yang tidak
+
+terpisahkan dari Peraturan Menteri ini.
+
+Pemberian izin usaha di bidang energi dan sumber daya mineral
+
+sebagaimana dimaksud dalam Pasal 1 dilaksanakan oleh Kepala
+
+Badan Koordinasi Penanaman Modal untuk dan atas nama Menteri
+
+Energi dan Sumber Daya Mineral.
+
+Kepala Badan Koordinasi Penanaman Modal dalam melaksanakan
+
+pemberian izin usaha sebagaimana dimaksud dalam Pasal 2
+
+berpedoman pada Daftar Bidang Usaha Yang Tertutup dan Bidang
+
+Usaha Yang Terbuka Dengan Persyaratan dan peraturan perundang-
+
+undangan di bidang Energi dan Sumber Daya Mineral.
+
+Kepala Badan Koordinasi Penanaman Modal dalam melaksanakan
+
+pemberian izin usaha sebagaimana dimaksud dalam Pasal3, wajib :
+
+a. menyampaikan tembusan atas izin usaha yang dikeluarkan kepada
+
+Menteri yang bidang tugas dan tanggung jawabnya di bidang
+
+energi dan sumber daya mineral;
+
+b. menyampaikan laporan paling sedikit sekali dalam setahun kepada
+
+Menteri yang bidang tugas dan tanggung jawabnya di bidang
+
+energi dan sumber daya mineral.
+
+Peraturan Menteri ini mulai berlaku pada tanggal ditetapkan
+
+Agar setiap orang mengetahuinya, memerintahkan pengundangan
+
+Peraturan Menteri ini dengan penempatannya dalam Berita Negara
+
+Republik Indonesia.
+
+---
+**Ditetapkan di Jakarta**
+pada tanggal 29 Januari 2010
+
+**MENTERI ENERGI DAN SUMBER DAYA MINERAL,**
+*ttd.*
 DARWIN ZAHEDY SALEH
 
 Diundangkan di Jakarta
-pada tanggal 21 April 2010
 
-MENTERI HUKUM DAN HAK ASASI MANUSIA,
+pada tanggal 29 Januari 2010
 
+**MENTERI HUKUM DAN HAK ASASl MANUSIA**
+REPUBLIK INDONESIA,
+
+*ttd .*
 PATRIALIS AKBAR
 
-BERITA NEGARA REPUBLIK INDONESIA TAHUN 2010 NOMOR 208
+**BERITA NEGARA REPUBLIK INDONESIA TAHUN 2010 NOMOR 49**
+Salinan sesuai dengan aslinya
+
+KEMENTERIAN ENERGI JAD SUMBER DAYA MINERAL
+
+Kepala Biro man Humas,
+
+**LAMPIRAN PERATURAN MENTERI ENERGI DAN SUMBER DAYA MINERAL**
+NOMOR : 05 TAHUN 2010
+
+TANGGAL : 29 Januari 2010
+
+A. Bidang Usaha Pertambangan Mineral, Batubara dan Panas Bumi :
+
+1. Pemberian lzin Prinsip dalam rangka izin fasilitas
+
+2. Surat Persetujuan Pabean dalam rangka pengimporan mesinlperalatan
+
+3. Pemberian persetujuan perubahan penanaman modal
+
+4. Pemberian persetujuan perubahan pemegang saham
+
+5. Pemberian persetujuan perubahan investasi dan pembiayaan
+
+6. Pemberian persetujuan perubahan anggaran dasar perusahaan
+
+7. Pemberian persetujuan perubahan direksi dan komisaris
+
+Khusus untuk angka 2 sampai dengan angka 7, persetujuan dari Badan Koordinasi
+
+Penanaman Modal diberikan setelah mendapatkan rekomendasi dari Kementerian
+
+Energi dan Sumber Daya Mineral
+
+B. Bidang Usaha Ketenagalistrikan :
+
+1. Untuk Kepentingan Umum :
+
+Pemberian lzin Prinsip dalam rangka izin fasilitas
+
+2. Untuk Kepentingan Sendiri :
+
+a. Pemberian lzin Prinsip dalam rangka izin fasilitas
+
+b. Surat Persetujuan Pabean dalam rangka pengimporan mesinlperalatan
+
+c. lzin Operasi untuk Pembangkit Tenaga Listrik Untuk Kepentingan Sendiri
+
+yang Lintas Provinsi *)
+
+C. Bidang Usaha Jasa Pertambangan Mineral, Batubara dan Panas Bumi :
+
+1. Pemberian lzin Prinsip dalam rangka izin fasilitas
+
+2. Surat Persetujuan Pabean dalam rangka pengimporan mesinlperalatan
+
+3. lzin Usaha Tetap dalam rangka penanaman modal asing *)
+
+D. Bidang Usaha Jasa Penunjang Minyak dan Gas Bumi :
+
+1. Pemberian lzin Prinsip dalam rangka izin fasilitas
+
+2. Surat Persetujuan Pabean dalam rangka pengimporan mesinlperalatan
+
+3. lzin Usaha Tetap dalam rangka penanaman modal asing *)
+
+*) Diterbitkan oleh Badan Koordinasi Penanaman Modal atas nama Menteri Energi
+
+dan Sumber Daya Mineral.
+
+**MENTERI ENERGI DAN SUMBER DAYA MINERAL,**
+*ttd .*
+DARWIN ZAHEDY SALEH
+
+Salinan sesuai dengan aslinya
+
+BER DAYA MINERAL
+
 
 ---
-**Source:** JDIH ESDM - Permen ESDM 05/2010  
-**Format:** Complete PDF-to-markdown conversion  
-**Topic:** Delegation of Investment Licensing Authority to BKPM  
-**Date:** 21 April 2010
+**Source:** Permen ESDM 05 2010.pdf
+**Converted:** PDF-to-markdown with OCR cleaning
+**Format:** Indonesian legal regulation

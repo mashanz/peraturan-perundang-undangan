@@ -1,22 +1,26 @@
 ## TENTANG
-**NOMOR : 08 TAHUN 2010**
+**NOMOR : 09 TAHUN 2010**
 
 **DENGAN RAHMAT TUHAN YANG MAHA ESA**
 
 **MENTERI ENERGI DAN SUMBER DAYA MINERAL,**
 
 **MENTERI ENERGI DAN SUMBER DAYA MINERAL,**
-nbang : a. bahwa Standar Kompetensi Tenaga Teknik Ketenagalistrikan
+### Menimbang : a. bahwa Standar Kompetensi Tenaga Teknik Ketenagalistrikan
 
-Bidang lnstalasi Pemanfaatan Tenaga Listrik Sub Bidang
+Bidang Pembangkitan Energi Baru Terbarukan Bidang
 
-Perancangan, Sub Bidang Konstruksi, Sub Bidang Operasi, Sub
+Pembangkitan Energi Baru dan Terbarukan Pembangkit Listrik
 
-Bidang Pemeliharaan dan Sub Bidang lnspeksi sebagaimana
+Tenaga Mikro Hidro (PLTMH), Pembangkit Listrik Tenaga
+
+Biomassa (PLTBM), Pembangkit Listrik Tenaga Bayu (PLTB),
+
+dan Pembangkit Listrik Tenaga Surya (PLTS) sebagaimana
 
 diatur dalam Peraturan Menteri Energi dan Sumber Daya
 
-Mineral Nomor 029 Tahun 2006 sudah tidak sesuai dengan
+Mineral Nomor 030 Tahun 2006 sudah tidak sesuai dengan
 
 perkembangan kompetensi tenaga teknik ketenagalistrikan
 
@@ -36,17 +40,17 @@ Nomor 015 Tahun 2007, dan sesuai dengan Berita Acara Forum
 
 Konsensus tanggal 25 November 2008 mengenai Standar
 
-Kompetensi Tenaga Teknik Ketenagalistrikan Bidang lnstalasi
+Kompetensi Tenaga Teknik Ketenagalistrikan Bidang
 
-Pemanfaatan Tenaga Listrik Sub Bidang Perancangan, Sub
+Pembangkitan Energi Baru Terbarukan Sub Bidang Konstruksi,
 
-Bidang Konstruksi, Sub Bidang Operasi, Sub Bidang
+Sub Bidang Operasi, Sub Bidang Pemeliharaan dan Sub Bidang
 
-Pemeliharaan dan Sub Bidang Inspeksi, perlu menetapkan dan
+Inspeksi, perlu menetapkan dan memberlakukan kembali
 
-memberlakukan kembali Standar Kompetensi Tenaga Teknik
+Standar Kompetensi Tenaga Teknik Ketenagalistrikan
 
-Ketenagalistrikan dimaksud;
+dimaksud;
 
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud
 
@@ -56,13 +60,11 @@ Energi dan Sumber Daya Mineral tentang Penetapan dan
 
 Pemberlakuan Standar Kompetensi Tenaga Teknik
 
-Ketenagalistrikan Bidang lnstalasi Pemanfaatan Tenaga Listrik
+Ketenagalistrikan Bidang Pembangkitan Energi Baru Terbarukan
 
-Sub Bidang Perancangan, Sub Bidang Konstruksi, Sub Bidang
+Sub Bidang Konstruksi, Sub Bidang Operasi, Sub Bidang
 
-Operasi, Sub Bidang Pemeliharaan dan Sub Bidang Inspeksi;
-
-### Mengingat ...
+Pemeliharaan dan Sub Bidang Inspeksi;
 
 ### Mengingat : 1. Undang-Undang Nomor 30 Tahun 2009 tentang
 
@@ -70,7 +72,9 @@ Ketenagalistrikan (Lembaran Negara Republik Indonesia Tahun
 
 2009 Nomor 133, Tambahan Lembaran Negara Republik
 
-1 Indonesia Nomor 5052);
+Indonesia Nomor 5052);
+
+2. Peraturan ...
 
 2. Peraturan Pemerintah Nomor 10 Tahun 1989 tentang
 
@@ -124,8 +128,6 @@ dan Sumber Daya Mineral Nomor 015 Tahun 2007 tanggal
 
 0030 Tahun 2005 tanggal 20 Juli 2005 tentang Organisasi dan
 
-I
-
 Tata Kerja Departemen Energi dan Sumber Daya Mineral;
 
 ### MEMUTUSKAN:
@@ -136,63 +138,67 @@ TENTANG PENETAPAN DAN PEMBERLAKUAN STANDAR
 
 KOMPETENSI TENAGA TEKNIK KETENAGALISTRIKAN BIDANG
 
-INSTALAS1 PEMANFAATAN TENAGA LlSTRlK SUB BIDANG
+PEMBANGKITAN ENERGI BARU TERBARUKAN SUB BIDANG
 
-PERANCANGAN, SUB BIDANG KONSTRUKSI, SUB BIDANG
+KONSTRUKSI, SUB BIDANG OPERASI, SUB BIDANG
 
-OPERASI, SUB BlDANG PEMELIHARAAN DAN SUB BIDANG
+PEMELIHARAAN DAN SUB BIDANG INSPEKSI.
 
-INSPEKSI.
-
-I Pasal I
+### Pasal 1
 
 **Menetapkan Standar Kompetensi Tenaga Teknik Ketenagalistrikan**
 
-Bidang lnstalasi Pemanfaatan Tenaga Listrik Sub Bidang
+Bidang Pembangkitan Energi Baru Terbarukan Sub Bidang
 
-Perancangan, Sub Bidang Konstruksi, Sub Bidang Operasi, Sub
+Konstruksi, Sub Bidang Operasi, Sub Bidang Pemeliharaan dan
 
-Bidang Pemeliharaan dan Sub Bidang lnspeksi sebagaimana
+Sub Bidang lnspeksi sebagaimana tercantum dalam Lampiran I,
 
-tercantum dalam Lampiran I, Lampiran II, Lampiran Ill, Lampiran IV,
+Lampiran II, Lampiran Ill dan Lampiran IV, yang merupakan bagian
 
-dan Lampiran V yang merupakan bagian tidak terpisahkan dari
-
-Peraturan Menteri ini.
+tidak terpisahkan dari Peraturan Menteri ini.
 
 Memberlakukan Standar Kompetensi Tenaga Teknik
 
-Ketenagalistrikan Bidang lnstalasi Pemanfaatan Tenaga Listrik
+Ketenagalistrikan Bidang Pembangkitan Energi Baru Terbarukan
 
-sebagaimana dimaksud dalam Pasal 1 sebagai standar wajib.
+sebagaimana dimaksud dalam Pasall sebagai standar wajib.
+
+### Pasal 3 ...
 
 Terhadap Tenaga Teknik Ketenagalistrikan yang telah memiliki
 
 Sertifikat Kompetensi Tenaga Teknik Ketenagalistrikan Bidang
 
-lnstalasi Pemanfaatan Tenaga Listrik Sub Bidang Perancangan,
+Pembangkitan Energi Baru Terbarukan Bidang Pembangkitan
 
-Sub Bidang Konstruksi, Sub Bidang Operasi, Sub Bidang
+Energi Baru dan Terbarukan Pembangkit Listrik Tenaga Mikro Hidro
 
-Pemeliharaan dan Sub Bidang Inspeksi yang diterbitkan sebelum
+(PLTMH), Pembangkit Listrik Tenaga Biomassa (PLTBM),
 
-Peraturan Menteri ini ditetapkan, tetap berlaku sampai berakhirnya
+Pembangkit Listrik Tenaga Bayu (PLTB), dan Pembangkit Listrik
 
-masa berlaku Sertifikat tersebut.
+Tenaga Surya (PLTS) yang diterbitkan sebelum Peraturan Menteri
 
-Pada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri
+ini ditetapkan, tetap berlaku sampai berakhirnya masa berlaku
 
-Energi dan Sumber Daya Mineral Nomor 029 Tahun 2006 tentang
+Sertifikat tersebut.
+
+Pada saat Peraturan Menteri ini muiai berlaku, Peraturan Menteri
+
+Energi dan Sumber Daya Mineral Nomor 030 Tahun 2006 tentang
 
 Penetapan dan Pemberlakuan Standar Kompetensi Tenaga Teknik
 
-Ketenagalistrikan Bidang lnstalasi Pemanfaatan Tenaga Listrik Sub
+Ketenagalistrikan Bidang Pembangkitan Energi Baru dan
 
-Bidang Perancangan, Sub Bidang Konstruksi, Sub Bidang Operasi,
+Terbarukan Pembangkit Listrik Tenaga Mikro Hidro (PLTMH),
 
-Sub Bidang Pemeliharaan dan Sub Bidang Inspeksi, dicabut dan
+Pembangkit Listrik Tenaga Biomassa (PLTBM), Pembangkit Listrik
 
-dinyatakan tidak berlaku.
+Tenaga Bayu (PLTB), dan Pembangkit Listrik Tenaga Surya
+
+(PLTS), dicabut dan dinyatakan tidak berlaku.
 
 Peraturan Menteri ini mulai berlaku pada tanggal ditetapkan.
 
@@ -200,7 +206,7 @@ Agar setiap orang mengetahuinya, memerintahkan pengundangan
 
 Peraturan Menteri ini dengan penempatannya dalam Berita Negara
 
-Repubtik Indonesia.
+Republik Indonesia.
 
 ---
 **Ditetapkan di Jakarta**
@@ -212,7 +218,7 @@ DARWIN ZAHEDY SALEH
 
 Diundangkan di Jakarta
 
-pada tanggal 5 Juli 2010
+pada tanggal 5 ~ u i i2010
 
 **MENTERI HUKUM DAN HAK ASASl MANUSIA**
 REPUBLIK INDONESIA,
@@ -220,17 +226,19 @@ REPUBLIK INDONESIA,
 *ttd.*
 PATRIALIS AKBAR
 
-**BERITA NEGARA**
-". , ---.REPUBLIK
+**BERITA NEGARA REPUBLIK INDONESIA TAHUN 2010 NOMOR 322**
+--. ':""-""
 
-. INDONESIA TAHUN 2010 NOMOR 321
+,
 
-.--- -
+$amsesuai dengan aslinya
 
-UMBER DAYA MINERAL
+K E M @ ~ R # A @&RGI
+
+N DAbSUMBER DAYA MINERAL
 
 
 ---
-**Source:** Permen ESDM 08 2010.pdf
+**Source:** Permen ESDM 09 2010.pdf
 **Converted:** PDF-to-markdown with OCR cleaning
 **Format:** Indonesian legal regulation
